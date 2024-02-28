@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
  int main(){
- 	cout<<"Hello worls"<<endl;
+ 	cout<<"the first code from sublime text to git hub repo"<<endl;
  	
  }
